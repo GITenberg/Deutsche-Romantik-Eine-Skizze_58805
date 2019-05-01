@@ -1,11 +1,16 @@
 _repo: Deutsche-Romantik-Eine-Skizze_58805
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58805-h/images/cover.jpg
 creator:
   author:
     agent_name: Walzel, Oskar Franz
     gutenberg_agent_id: '50161'
     url: http://www.gutenberg.org/2009/agents/50161
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58805#Deutsche-Romantik-Eine-Skizze
 gutenberg_issued: '2019-02-01'
 gutenberg_type: Text
 identifiers:
